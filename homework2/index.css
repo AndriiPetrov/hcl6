@@ -1,0 +1,8 @@
+a[href$=".pdf"]{
+    background: url('pdf.png') 100% 50% no-repeat;
+    padding-right: 20px;
+}
+/* a[href$=".txt"]{
+    background: url('txt1.png') 20% 20% no-repeat;
+    padding-right: 30px;
+} */

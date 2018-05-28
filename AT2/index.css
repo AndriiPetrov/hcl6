@@ -1,0 +1,9 @@
+.main{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.class1, .class2, .class3{
+    margin: 10px;
+    flex-direction: column;
+}
